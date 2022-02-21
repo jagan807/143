@@ -1,2 +1,3 @@
 hello jagan
 wellcome to git class
+how to change file in git hub
